@@ -7,7 +7,7 @@ Per acceptance criteria and mockup, the requested functionality has been coded o
 
 Screenshot
 
- <img src="./images/screenshot.PNG" alt="Screenshot of Password Generator"/>
+ <img src="./Develop/images/screenshot.PNG" alt="Screenshot of Password Generator"/>
 
 
 Links
